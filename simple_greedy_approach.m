@@ -1,4 +1,4 @@
-% Using relaxed SDP formulation of the QUBO / Partition problem
+% Finding solution to the partition problem / QUBO problem
 
 % We generate K random sample vectors of +/- 1s  
 % Using greedy approach, we then try to find the optimal solution to our
