@@ -2,7 +2,7 @@
 Finding optimal solutions to QUBO problems using different methods
 
 #### Requirements to run on the MATLAB:
-CVX OPT package for MATLAB: Downloadable from [http://cvxr.com/cvx/download/](CVX website)
+CVX OPT package for MATLAB: Downloadable from [CVX website](http://cvxr.com/cvx/download/).
 Code tested with MATLAB 2020
 
 #### Information about the files:
