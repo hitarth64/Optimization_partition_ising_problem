@@ -7,6 +7,8 @@ Code tested with MATLAB 2020
 
 #### Information about the files:
 
+PS06_SDPtwoWayPartitionData.mat: Sample cost / ising hamiltonians of sizes 5,10 and 50 
+
 SDP_bound.m: Gives SDP bound to the partition problem
 
 bounds_observations.pdf: Tabulates the different values
@@ -22,3 +24,4 @@ normal_distribution_approach.m: Tries to find optimal solution by drawing sample
 normal_distribution_greedy_approach.m: Combines normal distribution approach with a greedy algorithm
 
 simple_greedy_approach.m: Greedy approach on random vectors of +1s and -1s
+
