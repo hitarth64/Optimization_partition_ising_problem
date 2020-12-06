@@ -25,3 +25,6 @@ normal_distribution_greedy_approach.m: Combines normal distribution approach wit
 
 simple_greedy_approach.m: Greedy approach on random vectors of +1s and -1s
 
+#### Context
+
+Partly done as part of Convex optimization course ECE1505 at University of Toronto, 2020
