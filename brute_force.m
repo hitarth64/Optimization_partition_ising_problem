@@ -1,7 +1,9 @@
 % Brute force search for optimal solution of QUBO instance
 
 load('PS06_SDPtwoWayPartitionData.mat');
-W = W10;
+
+% Replace W10 by other QUBO matrices you want to try
+W = W10; 
 [N,N] = size(W);
 minimum = 100000000000000;
 for i = 0:2^N - 1
