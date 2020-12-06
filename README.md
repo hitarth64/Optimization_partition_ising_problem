@@ -1,6 +1,10 @@
 # convex_opt_QUBO
 Finding optimal solutions to QUBO problems using different methods
 
+#### Requirements to run on the MATLAB:
+CVX OPT package for MATLAB: Downloadable from [http://cvxr.com/cvx/download/](CVX website)
+Code tested with MATLAB 2020
+
 #### Information about the files:
 
 SDP_bound.m: Gives SDP bound to the partition problem
