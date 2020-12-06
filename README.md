@@ -1,5 +1,5 @@
-# convex_opt_QUBO
-Finding optimal solutions to QUBO problems using different methods
+# Optimization_partition_ising_problem
+Finding optimal solutions to parition aka ising aka QUBO problems using different methods
 
 #### Requirements to run on the MATLAB:
 CVX OPT package for MATLAB: Downloadable from [CVX website](http://cvxr.com/cvx/download/).
